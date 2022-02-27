@@ -17,7 +17,15 @@ h5,
 h6 {
   font-weight: 700;
 }
+.banner {
+  
+  position: absolute;
+  left: 0px;
+  top: 20px;
+  width: 450px;
+  padding: 10px;
 
+}
 a {
   color: darken($theme-color, 15%);
   &:hover {
